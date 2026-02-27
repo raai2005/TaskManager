@@ -112,15 +112,15 @@ flutter build apk --debug
 
 | Splash | Login | Home |
 |---|---|---|
-| ![Splash](lib/screenshots/splash.png) | ![Login](lib/screenshots/login.png) | ![Home](lib/screenshots/home_all.png) |
+| ![Splash](task_manager/lib/screenshots/splash.png) | ![Login](task_manager/lib/screenshots/login.png) | ![Home](task_manager/lib/screenshots/home_all.png) |
 
 | Add Task | Pending Filter | Task Done |
 |---|---|---|
-| ![Add Task](lib/screenshots/add_task.png) | ![Pending](lib/screenshots/addedtask_pending.png) | ![Done](lib/screenshots/task_done.png) |
+| ![Add Task](task_manager/lib/screenshots/add_task.png) | ![Pending](task_manager/lib/screenshots/addedtask_pending.png) | ![Done](task_manager/lib/screenshots/task_done.png) |
 
 | Analytics |
 |---|
-| ![Analytics](lib/screenshots/analytics.png) |
+| ![Analytics](task_manager/lib/screenshots/analytics.png) |
 
 ---
 
